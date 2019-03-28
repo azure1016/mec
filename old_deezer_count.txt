@@ -1,0 +1,41 @@
+---------------------start of topic # 3 -------------------
+---------------------start of topic # 3 -------------------
+topics: 3, RF score average of 4 models: 0.5225
+Complement NB score average of 4 models: 0.5301666666666667
+---------------------end of topic # 3 -------------------
+---------------------start of topic # 4 -------------------
+topics: 4, RF score average of 4 models: 0.52
+Complement NB score average of 4 models: 0.5283333333333333
+---------------------end of topic # 4 -------------------
+---------------------start of topic # 5 -------------------
+topics: 5, RF score average of 4 models: 0.5235000000000001
+Complement NB score average of 4 models: 0.5313333333333333
+---------------------end of topic # 5 -------------------
+---------------------start of topic # 6 -------------------
+topics: 6, RF score average of 4 models: 0.5191666666666668
+Complement NB score average of 4 models: 0.5318333333333334
+---------------------end of topic # 6 -------------------
+---------------------start of topic # 7 -------------------
+topics: 7, RF score average of 4 models: 0.521
+Complement NB score average of 4 models: 0.5288333333333333
+---------------------end of topic # 7 -------------------
+---------------------start of topic # 3 -------------------
+topics: 3, RF score average of 4 models: 0.5231666666666667
+Complement NB score average of 4 models: 0.5485
+---------------------end of topic # 3 -------------------
+---------------------start of topic # 4 -------------------
+topics: 4, RF score average of 4 models: 0.5306666666666666
+Complement NB score average of 4 models: 0.5511666666666666
+---------------------end of topic # 4 -------------------
+---------------------start of topic # 5 -------------------
+topics: 5, RF score average of 4 models: 0.5221666666666667
+Complement NB score average of 4 models: 0.5478333333333334
+---------------------end of topic # 5 -------------------
+---------------------start of topic # 6 -------------------
+topics: 6, RF score average of 4 models: 0.5226666666666666
+Complement NB score average of 4 models: 0.5496666666666666
+---------------------end of topic # 6 -------------------
+---------------------start of topic # 7 -------------------
+topics: 7, RF score average of 4 models: 0.5136666666666667
+Complement NB score average of 4 models: 0.5431666666666666
+---------------------end of topic # 7 -------------------

@@ -28,3 +28,16 @@ GEN_DEEZER_LOG = GEN_DIR+"/gen_deezer_error_log.txt"
 CLEAN_DIR = DATA_DIR+"/clean"
 CLEAN_SPOTIFY = CLEAN_DIR+"/clean_spotify_data.csv"
 CLEAN_DEEZER = CLEAN_DIR+"/clean_deezer_data.csv"
+
+# dataset column names
+COL_SONG = "song"
+COL_ARTIST = "artist"
+COL_VALENCE = "valence"
+COL_AROUSAL = "arousal"
+COL_LYRICS = "lyrics"
+COL_FOUND_SONG = "found_song"
+COL_FOUND_ARTIST = "found_artist"
+
+# implementation models
+MODEL_DIR = BASE_DIR+"/models"
+ADABOOST_MODEL_DIR = MODEL_DIR+"/adaboost"
