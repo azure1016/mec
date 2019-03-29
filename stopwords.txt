@@ -1213,3 +1213,12 @@ mmm
 lil
 yee
 ye
+<<<<<<< HEAD
+=======
+iii
+ii
+iiii
+hmmm
+hmmmmmmmm
+hmmmmmmmmm
+>>>>>>> upstream/master
